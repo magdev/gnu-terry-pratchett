@@ -1,6 +1,6 @@
 # gnu-terry-pratchett
 
-Add a X-Clacks-Overhead HTTP-Header to your Express application. Inspired by (Redditor pocketknifeMT)[http://www.reddit.com/r/bestof/comments/2yyop7/rdiscworld_redditors_with_web_servers_start/cpe89jk].
+Add a X-Clacks-Overhead HTTP-Header to your Express application. Inspired by [Redditor pocketknifeMT](http://www.reddit.com/r/bestof/comments/2yyop7/rdiscworld_redditors_with_web_servers_start/cpe89jk).
 
 ## Usage
 
