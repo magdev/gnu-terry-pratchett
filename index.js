@@ -29,5 +29,5 @@
      return function(req, res, next) {
          res.setHeader('X-Clacks-Overhead', 'GNU Terry Pratchett');
          next();
-     });
+     };
  };
