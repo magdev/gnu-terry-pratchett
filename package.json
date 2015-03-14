@@ -1,0 +1,22 @@
+{
+    "name":"gnu-terry-pratchett",
+    "description":"Add a X-Clacks-Overhead HTTP-Header to your application.",
+    "keywords":[
+        "express",
+        "middleware",
+        "terry pratchett"
+    ],
+    "version":"0.0.1",
+    "homepage":"https://github.com/magdev/gnu-terry-pratchett",
+    "bugs":"https://github.com/magdev/gnu-terry-pratchett/issues",
+    "repository":{
+        "type":"git",
+        "url":"https://github.com/magdev/gnu-terry-pratchett.git"
+    },
+    "author":{
+        "name":"Marco Grätsch",
+        "email":"magdev3.0@gmail.com",
+        "url":"https://plus.google.com/+MarcoGrätsch"
+    },
+    "main":"index.js"
+}
