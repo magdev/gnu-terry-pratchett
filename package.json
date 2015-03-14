@@ -1,6 +1,6 @@
 {
     "name":"gnu-terry-pratchett",
-    "description":"Add a X-Clacks-Overhead HTTP-Header to your application.",
+    "description":"Add a X-Clacks-Overhead HTTP-Header to your Express application.",
     "keywords":[
         "express",
         "middleware",
